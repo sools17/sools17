@@ -40,5 +40,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 Coding sample:
 
-Welcome to my page
+>Welcome to my page
 **bold items** 
+>Testing out block quoting. 
+
